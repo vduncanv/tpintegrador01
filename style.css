@@ -1,0 +1,74 @@
+
+#verde {color: rgb(106, 210, 1); }
+.carousel-inner { 
+    background-color: rgba(41, 23, 1, 0.75) ;
+}
+#blanco {
+    color: white;
+    border-color: white;
+}
+#textocarousel {
+    text-align: right;
+}
+#comprartickets {
+    background-color:rgb(106, 210, 1) ;
+}
+#transparencia {
+    background-color: rgba(31, 30, 29, 0.75);
+}
+#cards {
+margin-bottom: 2rem;
+
+}
+.row justify-content-start {
+    padding: 0%;
+    margin-top: 8rem;
+}
+#honolu {
+    height: 25rem;
+    margin-right: 0;
+}
+
+#textohonolulu {
+    height: 25rem;
+    background-color: rgb(52, 51, 51);
+    color: white;
+    padding: 10px
+
+}
+.row justify-content-start {
+    padding: 0%;
+    margin-top: 8rem;
+}
+
+#buttomconocemas {
+    color: white;
+    border-color: white;
+}
+
+.form {
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 2rem;
+}
+#enviar {
+    background-color: rgb(106, 210, 1) ;
+}
+
+#footer {
+    background-color:rgb(1, 22, 67) ;
+    color: white;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    font-size: 11px;
+}
+
+#photo {
+    opacity: 0.4;
+}
+.carousel-inner {
+    background-color: black;
+}
